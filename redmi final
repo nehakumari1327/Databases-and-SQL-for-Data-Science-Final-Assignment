@@ -1,0 +1,41 @@
+Final assignment solutions for Coursera course "Databases and SQL for Data Science"
+
+Problem 1: Find the total number of crimes recorded in the CRIME table
+
+sol1
+
+Problem 2: Retrieve first 10 rows from the CRIME table
+
+sol2
+
+Problem 3: How many crimes involve an arrest?
+
+sol3
+
+Problem 4: Which unique types of crimes have been recorded at GAS STATION locations?
+
+sol4
+
+Problem 5: In the CENUS_DATA table list all Community Areas whose names start with the letter ‘B’.
+
+sol5
+
+Problem 6: Which schools in Community Areas 10 to 15 are healthy school certified?
+
+sol6
+
+Problem 7: What is the average school Safety Score?
+
+sol7
+
+Problem 8: List the top 5 Community Areas by average College Enrollment
+
+sol8
+
+Problem 9: Use a sub-query to determine which Community Area has the least value for school Safety Score?
+
+sol9
+
+Problem 10: (Without using an explicit JOIN operator) Find the Per Capita Income of the Community Area which has a school Safety Score of 1.
+
+sol10
